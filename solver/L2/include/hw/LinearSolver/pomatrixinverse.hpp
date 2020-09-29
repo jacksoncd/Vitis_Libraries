@@ -18,6 +18,8 @@
  * @file pomatrixinverse.hpp
  * @brief  This files contains implementation of SPD matrix inverse.
  */
+ 
+ //Works on SPD matricies as opposed to the more general matrix inverse code from earlier
 
 #ifndef _XF_SOLVER_POMATRIXINVERSE_HPP_
 #define _XF_SOLVER_POMATRIXINVERSE_HPP_

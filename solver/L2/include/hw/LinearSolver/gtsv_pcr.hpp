@@ -18,6 +18,8 @@
  * @file gtsv_pcr.hpp
  * @brief Tri-diagonal linear solver. Parallel Cyclic Reduction method.
  */
+ 
+ //Tri-diagonal linear solver, computes solution using a tridiagonal matrix. Research further
 
 #ifndef _XF_SOLVER_L1_GTSV_PCR_
 #define _XF_SOLVER_L1_GTSV_PCR_

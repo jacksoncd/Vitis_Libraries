@@ -19,7 +19,7 @@
  * @brief  This files contains implementation of SPD matrix linear solver.
  */
  
- //Hello
+ //Solves the equation of Ax = b where A is a square matrix and B is an input vector. Finds the value of x
 
 #ifndef _XF_SOLVER_GELINEAR_HPP_
 #define _XF_SOLVER_GELINEAR_HPP_

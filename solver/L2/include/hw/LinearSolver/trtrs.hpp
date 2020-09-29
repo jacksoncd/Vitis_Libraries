@@ -18,6 +18,8 @@
  * @file trtrs.hpp
  * @brief  This files contains implementation of triangular solver.
  */
+ 
+ //Works with upper triangular matricies as a solver
 
 #ifndef _XF_SOLVER_TRTRS_HPP_
 #define _XF_SOLVER_TRTRS_HPP_

@@ -18,6 +18,8 @@
  * @file gematrixinverse.hpp
  * @brief  This files contains implementation of SPD matrix inverse.
  */
+ 
+ //Finds the matrix inverse of a matrix A where A is square
 
 #ifndef _XF_SOLVER_GEMATRIXINVERSE_HPP_
 #define _XF_SOLVER_GEMATRIXINVERSE_HPP_

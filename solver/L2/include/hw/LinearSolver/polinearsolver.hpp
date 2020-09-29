@@ -18,6 +18,8 @@
  * @file polinearsolver.hpp
  * @brief  This files contains implementation of SPD matrix linear solver.
  */
+ 
+ //More specific to seymmetric postivie definie matricies than the gelinearsolver.hpp programme
 
 #ifndef _XF_SOLVER_POLINEAR_HPP_
 #define _XF_SOLVER_POLINEAR_HPP_
